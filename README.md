@@ -1,3 +1,6 @@
+# Jupyter Notebook
+テックブログで紹介したサンプルコードを実行しながら理解を深めていくためにJupyter Notebookを公開しております。
+
 ## 必要な環境の準備
 1. Jupyter (iPython Notebook)を導入します。Anaconda等で事前にインストールしてください。
 2. Julia 0.5.2のインストール：[https://julialang.org/downloads/oldreleases.html](https://julialang.org/downloads/oldreleases.html)
